@@ -1,0 +1,7 @@
+.mainbg{
+    /* background: linear-gradient(90deg rgba(red) rgba(green) rgba(blue)); */
+    background: linear-gradient(180deg, rgba(0, 30, 21, 0.8), rgb(8, 1, 36));
+}
+.circle{
+    background-color: rgb(8,1,36);
+}
